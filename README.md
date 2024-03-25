@@ -24,6 +24,3 @@ Methodology:
 
 
 
-
-Conducted extensive evaluation across different performance metrics.
-Achieved an impressive accuracy of 97.19%.
